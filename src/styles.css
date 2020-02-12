@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+@import "/node_modules/bootstrap/dist/js/bootstrap.min.js.map";
+@import "/node_modules/bootstrap/dist/js/bootstrap.min.js";
+@import "/node_modules/bootstrap/dist/js/bootstrap.js.map";
+@import "/node_modules/bootstrap/dist/js/bootstrap.js";
+@import "/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map";
+@import "/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js";
+@import "/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map";
+@import "/node_modules/bootstrap/dist/js/bootstrap.bundle.js";
+@import "/node_modules/bootstrap/dist/css/bootstrap.css";
+@import "/node_modules/bootstrap/dist/css/bootstrap.css.map";
+@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "/node_modules/bootstrap/dist/css/bootstrap.min.css.map";
+@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
